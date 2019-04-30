@@ -35,3 +35,12 @@ section>header{
 #skills li {
     padding: 5px 0px;
 }
+
+.job {
+    background-color: rgba(100, 148, 237, 0.575);
+}
+
+main {
+    background-image: url("https://images.unsplash.com/photo-1556624651-70ad2f7e8364?ixlib=rb-1.2.1&auto=format&fit=crop&w=2134&q=80");
+    background-position: center;
+}
